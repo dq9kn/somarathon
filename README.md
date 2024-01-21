@@ -1,6 +1,6 @@
 # げんませき &amp; 天使のソーママラソンツール
 
-## マラソンサポートツールは[このリンク](https://dq9kn.github.io/somarathon/somarathon.html "ソーマラソン")から
+マラソンサポートツールは[このリンク](https://dq9kn.github.io/somarathon/somarathon.html "ソーマラソン")から
 
 # これはなに
 川崎ロッカーの地図を使用したげんませき &amp; 天使のソーマを集めるマラソンのための補助ツールです。  
