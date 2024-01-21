@@ -1,10 +1,41 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="jp">
 <head>
-  <meta charset="UTF-8">
-  <title>ソーマラソンツール</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ソーマラソン</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <script type="text/javascript" src="script.js"></script>
 </head>
 <body>
- preparing
+    <div id="datetime">1970-01-01 00:00:00</div>
+    <div id="container">
+        <div id="a">
+            <div id="c">
+                <div id="timer">00:00:00</div>
+                <div id="buttons">
+                    <button type="button" name="timer_start" id="timer_start">Start</button>
+                    <button type="button" name="timer_stop" id="timer_stop">Stop</button>
+                    <button type="button" name="timer_reset" id="timer_reset">Reset</button>
+                </div>
+            </div>
+            <div id="d">
+                <div id="e"><div id="nowboxtime">00:00</div></div>
+                <div id="f"><div id="nowboxtimelist">00:00</div></div>
+            </div>
+        </div>
+        <div id="b">
+            <div id="g">
+                <div id="nowbox">
+                    Next>><br><center><font color=black>4　F <font color='#0E11DD'>降</font> 階段 <font color='#58F510'>左</font> <font color='#B700FA'>げんま</font></font></center>
+                </div>
+            </div>
+            <div id="h">
+                <button type="button" name="box_prev" id="box_prev">Prev</button>
+                <button type="button" name="box_next" id="box_next">Next</button>
+                <button type="button" name="box_reset" id="box_reset">Reset</button>
+            </div>
+        </div>
+    </div>
 </body>
 </html>
