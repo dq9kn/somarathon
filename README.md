@@ -42,3 +42,6 @@
 * ビュアールがつらい
 →　つらい
 
+# 参考
+https://w.atwiki.jp/baramos/pages/62.html  
+ありがとうございます。
