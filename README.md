@@ -1,2 +1,3 @@
-# somarathon
-Marathon tool of dq9 Kawasaki locker Genmaseki &amp; Tenshi-no-soma.
+# げんませき &amp; 天使のソーママラソンツール
+## [マラソンサポートツール](https://dq9kn.github.io/somarathon/somarathon.html "ソーマラソン")
+
