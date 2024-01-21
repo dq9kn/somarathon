@@ -44,4 +44,5 @@
 
 # 参考
 https://w.atwiki.jp/baramos/pages/62.html  
+https://dragonquest9.com/?%E5%B7%9D%E5%B4%8E%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC%E3%81%AE%E5%9C%B0%E5%9B%B3  
 ありがとうございます。
